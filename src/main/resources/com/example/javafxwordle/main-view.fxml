@@ -27,143 +27,264 @@
 
     <GridPane alignment="TOP_CENTER"
               hgap="5"
-              vgap="5">
+              vgap="5"
+    >
 
         <!-- ROW 1 -->
 
         <Label fx:id="row1rec1"
                styleClass="default-tile"
-               GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="1" />
+               GridPane.columnIndex="1"  GridPane.rowIndex="1" />
 
         <Label fx:id="row1rec2"
                styleClass="default-tile"
-               GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.rowIndex="1" />
+               GridPane.columnIndex="2"  GridPane.rowIndex="1" />
 
         <Label fx:id="row1rec3"
                styleClass="default-tile"
-               GridPane.columnIndex="3" GridPane.halignment="LEFT" GridPane.rowIndex="1" />
+               GridPane.columnIndex="3"  GridPane.rowIndex="1" />
 
         <Label fx:id="row1rec4"
                styleClass="default-tile"
-               GridPane.columnIndex="4" GridPane.halignment="LEFT" GridPane.rowIndex="1" />
+               GridPane.columnIndex="4"  GridPane.rowIndex="1" />
 
 
         <Label fx:id="row1rec5"
                styleClass="default-tile"
-               GridPane.columnIndex="5" GridPane.halignment="LEFT" GridPane.rowIndex="1" />
+               GridPane.columnIndex="5"  GridPane.rowIndex="1" />
 
         <!-- ROW 2 -->
 
         <Label fx:id="row2rec1"
                styleClass="default-tile"
-               GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="2" />
+               GridPane.columnIndex="1"  GridPane.rowIndex="2" />
 
         <Label fx:id="row2rec2"
                styleClass="default-tile"
-               GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.rowIndex="2" />
+               GridPane.columnIndex="2"  GridPane.rowIndex="2" />
 
         <Label fx:id="row2rec3"
                styleClass="default-tile"
-               GridPane.columnIndex="3" GridPane.halignment="LEFT" GridPane.rowIndex="2" />
+               GridPane.columnIndex="3"  GridPane.rowIndex="2" />
 
         <Label fx:id="row2rec4"
                styleClass="default-tile"
-               GridPane.columnIndex="4" GridPane.halignment="LEFT" GridPane.rowIndex="2" />
+               GridPane.columnIndex="4"  GridPane.rowIndex="2" />
 
         <Label fx:id="row2rec5"
                styleClass="default-tile"
-               GridPane.columnIndex="5" GridPane.halignment="LEFT" GridPane.rowIndex="2" />
+               GridPane.columnIndex="5"  GridPane.rowIndex="2" />
 
         <!-- ROW 3 -->
 
         <Label fx:id="row3rec1"
                styleClass="default-tile"
-               GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="3" />
+               GridPane.columnIndex="1"  GridPane.rowIndex="3" />
 
         <Label fx:id="row3rec2"
                styleClass="default-tile"
-               GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.rowIndex="3" />
+               GridPane.columnIndex="2"  GridPane.rowIndex="3" />
 
         <Label fx:id="row3rec3"
                styleClass="default-tile"
-               GridPane.columnIndex="3" GridPane.halignment="LEFT" GridPane.rowIndex="3" />
+               GridPane.columnIndex="3"  GridPane.rowIndex="3" />
 
         <Label fx:id="row3rec4"
                styleClass="default-tile"
-               GridPane.columnIndex="4" GridPane.halignment="LEFT" GridPane.rowIndex="3" />
+               GridPane.columnIndex="4"  GridPane.rowIndex="3" />
 
         <Label fx:id="row3rec5"
                styleClass="default-tile"
-               GridPane.columnIndex="5" GridPane.halignment="LEFT" GridPane.rowIndex="3" />
+               GridPane.columnIndex="5"  GridPane.rowIndex="3" />
 
         <!-- ROW 4 -->
 
         <Label fx:id="row4rec1"
                styleClass="default-tile"
-               GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="4" />
+               GridPane.columnIndex="1"  GridPane.rowIndex="4" />
 
         <Label fx:id="row4rec2"
                styleClass="default-tile"
-               GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.rowIndex="4" />
+               GridPane.columnIndex="2"  GridPane.rowIndex="4" />
 
         <Label fx:id="row4rec3"
                styleClass="default-tile"
-               GridPane.columnIndex="3" GridPane.halignment="LEFT" GridPane.rowIndex="4" />
+               GridPane.columnIndex="3"  GridPane.rowIndex="4" />
 
         <Label fx:id="row4rec4"
                styleClass="default-tile"
-               GridPane.columnIndex="4" GridPane.halignment="LEFT" GridPane.rowIndex="4" />
+               GridPane.columnIndex="4"  GridPane.rowIndex="4" />
 
         <Label fx:id="row4rec5"
                styleClass="default-tile"
-               GridPane.columnIndex="5" GridPane.halignment="LEFT" GridPane.rowIndex="4" />
+               GridPane.columnIndex="5"  GridPane.rowIndex="4" />
 
         <!-- ROW 5 -->
 
         <Label fx:id="row5rec1"
                styleClass="default-tile"
-               GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="5" />
+               GridPane.columnIndex="1"  GridPane.rowIndex="5" />
 
         <Label fx:id="row5rec2"
                styleClass="default-tile"
-               GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.rowIndex="5" />
+               GridPane.columnIndex="2"  GridPane.rowIndex="5" />
 
         <Label fx:id="row5rec3"
                styleClass="default-tile"
-               GridPane.columnIndex="3" GridPane.halignment="LEFT" GridPane.rowIndex="5" />
+               GridPane.columnIndex="3"  GridPane.rowIndex="5" />
 
         <Label fx:id="row5rec4"
                styleClass="default-tile"
-               GridPane.columnIndex="4" GridPane.halignment="LEFT" GridPane.rowIndex="5" />
+               GridPane.columnIndex="4"  GridPane.rowIndex="5" />
 
         <Label fx:id="row5rec5"
                styleClass="default-tile"
-               GridPane.columnIndex="5" GridPane.halignment="LEFT" GridPane.rowIndex="5" />
+               GridPane.columnIndex="5"  GridPane.rowIndex="5" />
 
         <!-- ROW 6 -->
 
         <Label fx:id="row6rec1"
                styleClass="default-tile"
-               GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="6" />
+               GridPane.columnIndex="1"  GridPane.rowIndex="6" />
 
         <Label fx:id="row6rec2"
                styleClass="default-tile"
-               GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.rowIndex="6" />
+               GridPane.columnIndex="2"  GridPane.rowIndex="6" />
 
         <Label fx:id="row6rec3"
                styleClass="default-tile"
-               GridPane.columnIndex="3" GridPane.halignment="LEFT" GridPane.rowIndex="6" />
+               GridPane.columnIndex="3"  GridPane.rowIndex="6" />
 
         <Label fx:id="row6rec4"
                styleClass="default-tile"
-               GridPane.columnIndex="4" GridPane.halignment="LEFT" GridPane.rowIndex="6" />
+               GridPane.columnIndex="4"  GridPane.rowIndex="6" />
 
         <Label fx:id="row6rec5"
                styleClass="default-tile"
-               GridPane.columnIndex="5" GridPane.halignment="LEFT" GridPane.rowIndex="6" />
+               GridPane.columnIndex="5"  GridPane.rowIndex="6" />
 
     </GridPane>
 
     <!-- END OF GRIDPANE -->
 
+    <!-- KEYBOARD -->
+
+    <GridPane vgap="5" hgap="5" alignment="center">
+        <padding>
+            <Insets top="10.0"/>
+        </padding>
+        <!--ROW 2-->
+
+        <Label fx:id="q"
+               styleClass="keyboardTile" text="Q"
+               GridPane.columnIndex="1"  GridPane.rowIndex="1" />
+
+        <Label fx:id="w"
+               styleClass="keyboardTile" text="W"
+               GridPane.columnIndex="2"  GridPane.rowIndex="1" />
+
+        <Label fx:id="e"
+               styleClass="keyboardTile" text="E"
+               GridPane.columnIndex="3"  GridPane.rowIndex="1" />
+
+        <Label fx:id="r"
+               styleClass="keyboardTile" text="R"
+               GridPane.columnIndex="4"  GridPane.rowIndex="1" />
+
+        <Label fx:id="t"
+               styleClass="keyboardTile" text="T"
+               GridPane.columnIndex="5"  GridPane.rowIndex="1" />
+
+        <Label fx:id="y"
+               styleClass="keyboardTile" text="Y"
+               GridPane.columnIndex="6"  GridPane.rowIndex="1" />
+
+        <Label fx:id="u"
+               styleClass="keyboardTile" text="U"
+               GridPane.columnIndex="7"  GridPane.rowIndex="1" />
+
+        <Label fx:id="i"
+               styleClass="keyboardTile" text="I"
+               GridPane.columnIndex="8"  GridPane.rowIndex="1" />
+
+        <Label fx:id="o"
+               styleClass="keyboardTile" text="O"
+               GridPane.columnIndex="9"  GridPane.rowIndex="1" />
+
+        <Label fx:id="p"
+               styleClass="keyboardTile" text="P"
+               GridPane.columnIndex="10"  GridPane.rowIndex="1" />
+    </GridPane>
+        <!--ROW 2-->
+    <GridPane vgap="5" hgap="5" alignment="center">
+
+        <Label fx:id="a"
+               styleClass="keyboardTile" text="A"
+               GridPane.columnIndex="1"  GridPane.rowIndex="1" />
+
+        <Label fx:id="s"
+               styleClass="keyboardTile" text="S"
+               GridPane.columnIndex="2"  GridPane.rowIndex="1" />
+
+        <Label fx:id="d"
+               styleClass="keyboardTile" text="D"
+               GridPane.columnIndex="3"  GridPane.rowIndex="1" />
+
+        <Label fx:id="f"
+               styleClass="keyboardTile" text="F"
+               GridPane.columnIndex="4"  GridPane.rowIndex="1" />
+
+        <Label fx:id="g"
+               styleClass="keyboardTile" text="G"
+               GridPane.columnIndex="5"  GridPane.rowIndex="1" />
+
+        <Label fx:id="h"
+               styleClass="keyboardTile" text="H"
+               GridPane.columnIndex="6"  GridPane.rowIndex="1" />
+
+        <Label fx:id="j"
+               styleClass="keyboardTile" text="J"
+               GridPane.columnIndex="7"  GridPane.rowIndex="1" />
+
+        <Label fx:id="k"
+               styleClass="keyboardTile" text="K"
+               GridPane.columnIndex="8"  GridPane.rowIndex="1" />
+
+        <Label fx:id="l"
+               styleClass="keyboardTile" text="L"
+               GridPane.columnIndex="9"  GridPane.rowIndex="1" />
+
+        <!--ROW 3-->
+    </GridPane>
+    <GridPane vgap="5" hgap="5" alignment="center">
+
+        <Label fx:id="z"
+               styleClass="keyboardTile" text="Z"
+               GridPane.columnIndex="1"  GridPane.rowIndex="1" />
+
+        <Label fx:id="x"
+               styleClass="keyboardTile" text="X"
+               GridPane.columnIndex="2"  GridPane.rowIndex="1" />
+
+        <Label fx:id="c"
+               styleClass="keyboardTile" text="C"
+               GridPane.columnIndex="3"  GridPane.rowIndex="1" />
+
+        <Label fx:id="v"
+               styleClass="keyboardTile" text="V"
+               GridPane.columnIndex="4"  GridPane.rowIndex="1" />
+
+        <Label fx:id="b"
+               styleClass="keyboardTile" text="B"
+               GridPane.columnIndex="5"  GridPane.rowIndex="1" />
+
+        <Label fx:id="n"
+               styleClass="keyboardTile" text="N"
+               GridPane.columnIndex="6"  GridPane.rowIndex="1" />
+
+        <Label fx:id="m"
+               styleClass="keyboardTile" text="M"
+               GridPane.columnIndex="7"  GridPane.rowIndex="1" />
+
+    </GridPane>
 </VBox>

@@ -37,3 +37,16 @@
     -fx-font-size: 36px;
     -fx-text-fill: -text-fill-colour;
 }
+
+.keyboardTile {
+    -fx-background-color: -key-background-colour;
+    -fx-text-fill: -text-fill-colour;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-min-width: 43px;
+    -fx-min-height: 58px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-background-radius: 4px;
+
+}
